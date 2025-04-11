@@ -1,3 +1,4 @@
+requests
 colorama
 pysnmp
 win_unicode_console
