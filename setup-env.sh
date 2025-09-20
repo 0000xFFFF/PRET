@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Function to create a virtual environment using the available Python command
 create_venv() {
     command=$1
